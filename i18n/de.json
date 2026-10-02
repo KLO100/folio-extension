@@ -601,7 +601,7 @@
     "title" : "Gemeinschaftsdienst",
     "start" : "Von",
     "end" : "Bis",
-    "hour": "Stunded",
+    "hour": "Stunden",
     "name" : "Name der Einrichtung",
     "activity" : "Tätigkeit",
     "notes" : "Anmerkungen"
